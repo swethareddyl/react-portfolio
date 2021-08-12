@@ -25,7 +25,7 @@ I want to view a potential employee's deployed portfolio of work samples,so that
 
 ## Screen Shots
 
-./assets/images/reactportfolio.PNG
+![ReactPortfolio](./assets/images/reactportfolio.PNG)
 
 ## Github Link
 
