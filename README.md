@@ -29,6 +29,7 @@ I want to view a potential employee's deployed portfolio of work samples,so that
 
 ## Github Link
 
+https://github.com/swethareddyl/react-portfolio.git
 
 ## Deployed Github Pages Link
 
