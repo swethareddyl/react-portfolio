@@ -33,5 +33,4 @@ https://github.com/swethareddyl/react-portfolio.git
 
 ## Deployed Github Pages Link
 
-
-
+https://swethareddyl.github.io/react-portfolio/
